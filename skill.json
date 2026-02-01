@@ -1,0 +1,40 @@
+{
+  "name": "ios26-foundation-models",
+  "version": "1.0.0",
+  "description": "Expert iOS 26 development with Foundation Models, HealthKit State of Mind, Swift Charts, and StoreKit 2",
+  "author": "Claude & Andy",
+  "keywords": [
+    "ios26",
+    "foundation-models",
+    "apple-intelligence",
+    "healthkit",
+    "swift-charts",
+    "storekit2",
+    "swiftui",
+    "swift6",
+    "concurrency"
+  ],
+  "instructions": "instructions.md",
+  "examples": [
+    {
+      "prompt": "Create a Foundation Models classification service",
+      "description": "Generates a complete classification service using @Generable and LanguageModelSession"
+    },
+    {
+      "prompt": "Add HealthKit State of Mind tracking",
+      "description": "Implements State of Mind API with proper iOS 18+ availability checks"
+    },
+    {
+      "prompt": "Set up StoreKit 2 subscriptions",
+      "description": "Creates subscription manager with product loading, purchase flow, and entitlement checks"
+    },
+    {
+      "prompt": "Add Swift Charts analytics dashboard",
+      "description": "Implements data visualization with BarMark, LineMark, and PointMark"
+    },
+    {
+      "prompt": "Fix Swift 6 concurrency issues",
+      "description": "Resolves actor isolation, Sendable, and MainActor problems"
+    }
+  ]
+}
