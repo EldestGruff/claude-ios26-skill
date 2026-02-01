@@ -59,7 +59,7 @@ A comprehensive **Claude Code skill** built from real-world experience developin
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-ios26-skill.git
+git clone https://github.com/EldestGruff/claude-ios26-skill.git
 cd claude-ios26-skill
 ```
 
